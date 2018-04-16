@@ -10,5 +10,7 @@
 
 
 ## 数据引用
-如果用户使用该资源发表论文或取得科研成果，请在参考文献中加入引文“Xiang,Feng.&Longhui,Qiu. (2017). The construction of sentiment lexicon in educational field based on word2vec. Association for Educational Communications and Technology.”
+如果用户使用该资源发表论文或取得科研成果，请引用如下论文：
+Feng, X., & Qiu, L. (2017). Annual Proceedings of Selected Research and Development Papers. In Annual Convention of the Association for Educational Communications and Technology (Vol. 1). Jascksonville,Florida: Association for Educational Communications and Technology. Retrieved from https://members.aect.org/pdf/Proceedings/proceedings17/2017/17_19.pdf
+
 
