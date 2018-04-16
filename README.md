@@ -10,5 +10,5 @@
 
 
 ## 数据引用
-如果用户使用该资源发表论文或取得科研成果，请在参考文献中加入引文“”
+如果用户使用该资源发表论文或取得科研成果，请在参考文献中加入引文“Xiang,Feng.&Longhui,Qiu. (2017). The construction of sentiment lexicon in educational field based on word2vec. Association for Educational Communications and Technology.”
 
